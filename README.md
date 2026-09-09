@@ -1,5 +1,4 @@
-# Steady-State Multiplicity and Stability of a Two-Dimensional
-Two-Phase PEMFC Cathode Model — notebook manifest for GitHub release
+# Steady-State Multiplicity and Stability of a Two-Dimensional Two-Phase PEMFC Cathode Model 
 
 This folder gathers every notebook that Paper 1's current text (as of 2026-09-09, including
 Appendix D) actually draws its reported results from. All 36 files below were already present
